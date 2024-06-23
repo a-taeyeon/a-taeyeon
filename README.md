@@ -25,7 +25,10 @@
 </div>
 
 </br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-taeyeon&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-taeyeon&theme=radical&show_icons=true"/></a>
+</div>
